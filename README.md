@@ -24,7 +24,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Python, .Net Core, Type Script, Angular, Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mstfylmz).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/mstfylmz)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/mstfylmz)! I am happy to help..
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: mustafayilmaz0534@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/mstfylmz/mustafayilmaz/blob/master/resume.pdf).
