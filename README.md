@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mstfylmz&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Istanbul University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures, Algorithms, Integrations, Machine Learning, Big Data, Cloud Development and Artificial Intelligence. 🤓.
+I graduated in Computer Science Engineering 🎓 from Istanbul University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures, Algorithms, Integrations, Machine Learning, Big Data, Cloud Development and Artificial Intelligence. 🤓.
 
 Joined Github **2014**
 
