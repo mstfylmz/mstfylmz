@@ -27,7 +27,6 @@ Like My Work?
 - 💬 &nbsp; Ask me about anything [here](https://github.com/mstfylmz)! I am happy to help..
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: mustafayilmaz0534@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/mstfylmz/mustafayilmaz/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
